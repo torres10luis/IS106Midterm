@@ -50,3 +50,4 @@ Accent Color: #E6EBE0
 ![alt text](./img/product_grid_mockup.png)
 
 
+# IS106Midterm
